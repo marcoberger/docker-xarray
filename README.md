@@ -7,7 +7,7 @@ This sample show how to execute a python script, which uses the xarray library w
 
 ## Clone repository
 1. Install git on your computer
-2. Checkout repository: $ `git checkout ...`
+2. Clone repository: $ `git clone https://github.com/marcoberger/docker-xarray.git`
 
 ## Run docker container plus sctipt
 Steps to start the container and execute script:
